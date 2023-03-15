@@ -1,0 +1,4 @@
+Name: Insert cat
+Description: Inserts sentence
+Binding: cat_function
+Interactive: false
